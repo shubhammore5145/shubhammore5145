@@ -1,5 +1,26 @@
 # 💫 About Me:
-## 👋 About Me<br><br>Hi, I'm **Shubham More** — a B.Tech Information Technology student and passionate developer from India 🇮🇳.<br><br>I enjoy building **web applications, AI/ML solutions, mobile apps, automation systems, and real-world technology projects**. I love turning ideas into working products and continuously exploring new technologies.<br><br>### 🚀 My Projects<br><br>- 🌾 **Agro Nova** — AI-based crop recommendation platform for farmers, developed around the Smart India Hackathon problem statement.<br>- 🎙️ **TrueTone** — AI-based voice authenticity/deepfake detection system for detecting AI-generated or manipulated voices.<br>- 💼 **AI Career Trackr** — AI-powered career and job application tracking platform.<br>- 🚑 **Smart Ambulance Traffic Management System** — IoT-based solution using ESP32, Firebase and traffic coordination to help ambulances get priority at signals.<br>- 🛒 **E-Commerce Website** — Full-stack shopping platform with products, cart, checkout and backend integration.<br>- ♟️ **Snapin Store** — E-commerce concept for selling products online with ordering and store management features.<br>- 💰 **Personal Finance Manager / Expense Tracker** — Application for managing expenses, user history, totals and data visualization.<br>- 🎓 **Student Management System** — Java/OOP-based system for managing student information.<br>- 🍽️ **Mess Management System** — Digital system for managing mess-related information and users.<br>- ☕ **Café Website / Nisarg Cafe** — Responsive modern website for a café business.<br>- 🌐 **Personal Portfolio** — Interactive portfolio showcasing my skills, projects, certificates and work.<br>- ⚡ **UrjaSetu** — Government electricity update concept that provides outage/start/end information to users.<br>- 🧘 **Digital Wellbeing App** — Student-focused concept for managing digital habits and daily activities.<br>- 🏠 **PG/Room & Study Management App** — Concept for students to manage room, study, gym and mess-related activities.<br>- 🏢 **NAYSHI** — Premium technology brand concept focused on AI, software, digital products and modern technology solutions.<br>- 🍯 **Crispa Kitchen** — E-commerce brand concept for homemade food products such as papad, kurdai and loncha.<br><br>### 💻 Tech I Work With<br><br>`C` `C++` `Java` `Python` `JavaScript` `HTML` `CSS`  <br>`Firebase` `MySQL` `Git` `GitHub` `AI/ML` `IoT` `ESP32`<br><br>### 🎯 Currently<br><br>- Building real-world projects<br>- Exploring AI & Machine Learning<br>- Improving my Web Development skills<br>- Learning backend & cloud technologies<br>- Working on innovative student and startup ideas<br><br>### ⚡ My Mindset<br><br>> **Learn → Build → Experiment → Improve → Repeat 🚀**<br><br>I believe the best way to learn technology is by **building real projects**.
+
+Hi, I'm **Shubham More** 👋
+
+🎓 B.Tech Information Technology student passionate about **Web Development, Python, AI/ML, and UI/UX Design**.
+
+💻 I enjoy building real-world projects, experimenting with new technologies, and turning ideas into useful digital products.
+
+🚀 **What I do:**
+
+* 🌐 Web Development
+* 🐍 Python Development
+* ☕ Java & C Programming
+* 🤖 AI/ML Projects
+* 🎨 UI/UX & Creative Design
+* 🛒 E-commerce & Business Solutions
+
+🧠 Currently learning and improving my skills in **Artificial Intelligence, Full-Stack Development, and modern web technologies**.
+
+⚡ **Goal:** Build innovative projects, participate in hackathons, and create technology that solves real-world problems.
+
+📌 Always learning. Always building. Always improving. 🚀
+
 
 
 ## 🌐 Socials:
